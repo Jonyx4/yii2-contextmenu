@@ -99,8 +99,6 @@ GridView options
 
  ```
  
+------------
  *Forked to add a simple fix for boostrap 4 support (as "open" class does not work). Added class "show" to dropdown div.*
 
-
-该扩展为gird行右击菜单，可以省去操作列。
-提供了继承yii2 grid的SerialColumn 和 继承 Kartik gird的SerialColumn。
